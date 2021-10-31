@@ -1,4 +1,4 @@
-## Howdy!
+## Hello!
 
 ### My name is Gustavo and I will try to make this little description more interesting with some information about me!
 I graduated in Software Engineering in 2021 and I honestly want to apply my skills in the technology field. Maybe not as an engineer on the beginning, but a developer would be an amazing career to follow up with my skills, and I have absolute confidence that I will make the best out of any opportunity!
